@@ -34,7 +34,7 @@ Category - HIDDEN: If you want to hide stuff from people, like notes or somethin
 
 Category - BOT CONFIG: This is for configuring UnbelievaBoat and YAGPDB.xyz. I also use BetterAntispam (very rarely) so that is why there is a channel for that.
 
-
+[Go to top.](README.md#a-random-server-template)
 
 ## Roles
 
@@ -66,7 +66,7 @@ The next in the list are all the bot roles.
 
 @everyone: Standard permissions for new members. Includes read access to all in the IMPORTANT INFO category, as well as messaging in #new-people-chat.
 
-
+[Go to top.](README.md#a-random-server-template)
 
 ## Bots
 I use UnbelievaBoat and YAGPDB.xyz to help my server:
@@ -75,10 +75,13 @@ UnbelievaBoat: This is used to manage joining/leaving in channel #system-message
   
  YAGPDB.xyz: This is used to assign automatic roles (for clubs).
 
-
+[Go to top.](README.md#a-random-server-template)
 
 ## Clubs
 
 Clubs are what I use to (try to) entertain people. I've made a club system which allows people to join and make clubs. The club I have created (Music) is a general music club readable by any @Member and writeable by any @Club - Music. The misic club is designed for people to share their love of music by making it, sharing favourite songs or whatever music-related things they want to talk about.
 
 People can ask to make a club, in which you (or somebody who can assign roles) give them @Club Creation and talk with them in #club-creation
+
+[Go to top.](README.md#a-random-server-template)
+
