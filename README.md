@@ -5,13 +5,13 @@ Please note that any messages I add to channels (specifically read-only channels
 
 Notes on this page are ordered in:
 
-[**Categories**]()
+[**Categories**](README.md#categories)
 
-**Roles**
+[**Roles**](README.md#roles)
 
-**Bots**
+[**Bots**](README.md#bots)
 
-**Clubs**
+[**Clubs**](README.md#clubs)
 
 ................................................................
 
