@@ -9,14 +9,16 @@ Notes on this page are ordered in:
 
 **Roles**
 
-**Notes**
+**Bots**
 
 **Clubs**
 
-........................................................................................
+................................................................
 
 
 # Categories
+
+Uncategorised: There is only #club-selection in this area. This is where users can select clubs (see Clubs heading) by using YAGPDB.xyz (once set up) (see Bots heading).
 
 Category - STAFF STUFF: This category is for managing users which are breaking the rules or solving issues. The different staff rooms are different rooms for different problems (eg. multiple staff managing multiple issues). The third staff room has a voice channel too, in case it is needed.
 
@@ -78,3 +80,5 @@ UnbelievaBoat: This is used to manage joining/leaving in channel #system-message
 # Clubs
 
 Clubs are what I use to (try to) entertain people. I've made a club system which allows people to join and make clubs. The club I have created (Music) is a general music club readable by any @Member and writeable by any @Club - Music. The misic club is designed for people to share their love of music by making it, sharing favourite songs or whatever music-related things they want to talk about.
+
+People can ask to make a club, in which you (or somebody who can assign roles) give them @Club Creation and talk with them in #club-creation
