@@ -5,7 +5,7 @@ Please note that any messages I add to channels (specifically read-only channels
 
 Notes on this page are ordered in:
 
-**Categories**
+[**Categories**]()
 
 **Roles**
 
@@ -16,7 +16,7 @@ Notes on this page are ordered in:
 ................................................................
 
 
-# Categories
+## Categories
 
 Uncategorised: There is only #club-selection in this area. This is where users can select clubs (see Clubs heading) by using YAGPDB.xyz (once set up) (see Bots heading).
 
@@ -36,7 +36,7 @@ Category - BOT CONFIG: This is for configuring UnbelievaBoat and YAGPDB.xyz. I a
 
 
 
-# Roles
+## Roles
 
 @Bot Permissions: This gives all bots (and anyone you give this to) FULL PERMISSIONS of the server. Bots can be given certain permissions via the automaticly created role of the bot's name.
 
@@ -68,7 +68,7 @@ The next in the list are all the bot roles.
 
 
 
-# Bots
+## Bots
 I use UnbelievaBoat and YAGPDB.xyz to help my server:
 
 UnbelievaBoat: This is used to manage joining/leaving in channel #system-messages (Category - IMPORTANT INFO) and deleting/editing messages in #deleted/#edited (Category - UNBELIEVABOAT), respectively.
@@ -77,7 +77,7 @@ UnbelievaBoat: This is used to manage joining/leaving in channel #system-message
 
 
 
-# Clubs
+## Clubs
 
 Clubs are what I use to (try to) entertain people. I've made a club system which allows people to join and make clubs. The club I have created (Music) is a general music club readable by any @Member and writeable by any @Club - Music. The misic club is designed for people to share their love of music by making it, sharing favourite songs or whatever music-related things they want to talk about.
 
