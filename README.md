@@ -4,9 +4,15 @@ Notes on A Random Server (My Discord Template)
 Please note that any messages I add to channels (specifically read-only channels) will be placed in the Messages folder.
 
 Notes on this page are ordered in:
+
 **Categories**
+
 **Roles**
+
 **Notes**
+
+**Clubs**
+
 ........................................................................................
 
 
@@ -18,7 +24,7 @@ Category - IMPORTANT INFO: Important info is just a bunch of read-only notes. #r
 
 Category - GENERAL: This is where people mainly talk. the #new-people-chat is for new people who do not have the @Member roles (roles mentioned below). #a-random-channel is the basic text channel where those with @Member chat. #bots are for the use of any bots you add to the server. I have Groovy and Simple Poll in my server to use. The voice channels are for members. There are 3 channels as, in the event of having a large server, people may want to talk to specific people.
 
-Category - MUSIC: I've made a club system (read uder the Clubs heading of this page). Think of this like a school club, you do music stuff together, or just talk about music. 
+Category - MUSIC: Think of this like a school club, you do music stuff together, or just talk about music. 
 
 Category - CLUB CREATION: like a school club, they don't come out of nowhere. People can request to make a club (see the Roles heading below). #club-creation-template is a basic template of clubs (read Server Messages folder on GitHub)
 
@@ -66,3 +72,9 @@ I use UnbelievaBoat and YAGPDB.xyz to help my server:
 UnbelievaBoat: This is used to manage joining/leaving in channel #system-messages (Category - IMPORTANT INFO) and deleting/editing messages in #deleted/#edited (Category - UNBELIEVABOAT), respectively.
   
  YAGPDB.xyz: This is used to assign automatic roles (for clubs).
+
+
+
+# Clubs
+
+Clubs are what I use to (try to) entertain people. I've made a club system which allows people to join and make clubs. The club I have created (Music) is a general music club readable by any @Member and writeable by any @Club - Music. The misic club is designed for people to share their love of music by making it, sharing favourite songs or whatever music-related things they want to talk about.
